@@ -1,0 +1,137 @@
+body {
+	
+	
+}
+
+#header {
+	width: 100%;
+	text-align: center;
+}
+
+#head {
+	font-size: 60px;
+	padding: 1px;
+}
+
+#newgame {
+	padding: 0px;
+	height: 35px;
+	width: 120px;
+	border-style: none;
+	opacity: 0.75;
+}
+
+#game {
+	width: 100%;
+	
+}
+
+#gameboard {
+	padding-top: 20px;
+	width: 100%;
+	margin: 0 auto;
+	
+}
+
+#grid1 {
+	border-right-style: solid;
+	border-bottom-style: solid;
+	width: 150px;
+	height: 150px;
+	margin-left: 10%;
+	display: inline-block;
+	text-align: center;
+	
+}
+
+#grid2 {
+	border-right-style:solid;
+	border-bottom-style: solid;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	text-align: center;
+}
+
+#grid3 {
+	
+	border-bottom-style: solid;
+	margin-right: 10%;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	text-align: center;
+
+}
+
+#grid4 {
+	
+	border-bottom-style: solid;
+	border-right-style: solid;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-left: 10%;
+	text-align: center;
+}
+
+#grid5 {
+	width: 150px;
+	height: 150px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	display: inline-block;
+	text-align: center;
+}
+
+#grid6 {
+	width: 150px;
+	height: 150px;
+	border-bottom-style: solid;
+	display: inline-block;
+	text-align: center;
+}
+
+#grid7 {
+	margin-left: 10%;
+	border-right-style: solid;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	text-align: center;
+}
+
+#grid8 {
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	border-right-style: solid;
+	text-align: center;
+}
+
+#grid9 {
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+button {
+	vertical-align: center;
+}
+
+.x {
+	font-size: 80px;
+	color: blue;
+	display: inline-block;
+	
+}
+
+.o {
+	font-size: 80px;
+	color: red;
+	display: inline-block;
+}
+
