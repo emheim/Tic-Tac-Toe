@@ -21,6 +21,14 @@ body {
 	opacity: 0.75;
 }
 
+#newgame:hover {
+	padding: 0px;
+	height: 35px;
+	width: 120px;
+	border-style: solid;
+	opacity: 1.0;
+}
+
 #game {
 	width: 100%;
 	
@@ -122,9 +130,12 @@ button {
 	vertical-align: center;
 }
 
+
+
 .x {
 	font-size: 80px;
 	color: blue;
+	border-color: black;
 	display: inline-block;
 	
 }
@@ -132,6 +143,7 @@ button {
 .o {
 	font-size: 80px;
 	color: red;
+	border-color: black;
 	display: inline-block;
 }
 
