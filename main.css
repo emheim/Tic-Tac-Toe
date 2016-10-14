@@ -6,6 +6,7 @@ body {
 #header {
 	width: 100%;
 	text-align: center;
+	padding: 15px;
 }
 
 #head {
@@ -31,6 +32,11 @@ body {
 
 #game {
 	width: 100%;
+	background-color: rgb(250,250,250);
+	
+}
+
+tr {
 	
 }
 
